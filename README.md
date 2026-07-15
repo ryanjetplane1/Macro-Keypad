@@ -2,7 +2,7 @@
 
 A wireless BLE keyboard the size of your hand for custom hotkeys.
 
-This project was made for Hack Club as an affordable alternative to commercial Macropads. The Macropad uses the ESP32 core chip for latency-free Bluetooth transmission, taking sub 50ms. Features include key debouncing, a status LED indicator, a quick swap keybind changing tool, and an internal memory storage bank. Menu choices and key layouts can be configured easily using the desktop executable app.
+This project was made for Hack Club as an affordable alternative to commercial Macropads. The Macropad uses the ESP32 core chip for latency-free Bluetooth transmission, taking sub 50ms. Features include key debouncing, a status LED indicator, a quick swap keybind changing tool, and an internal memory storage bank. Menu choices and key layouts can be configured easily using the desktop app.
 
 ## BOM
 
