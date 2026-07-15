@@ -10,7 +10,7 @@ This project was made for Hack Club as an affordable alternative to commercial M
 | Component | Description | Quantity | Approx Price (USD) |
 | :--- | :--- | :--- | :--- |
 | **ESP32 Dev Kit** | Microcontroller | 1 | $4.50 |
-| **Tactile Buttons** | Tap input keys (any brand) | 3 | $0.30 |
+| **Tactile Buttons** | Tap input keys (any brand cherry mx style) | 3 | $0.30 |
 | **Status LED** | Indication led for network states | 1 | $0.10 |
 | **FR1 Copper Clad Sheet** | Base board for pcb | 1 | $1.00 |
 | **Total Cost** | -- | -- | **~$5.90** |
