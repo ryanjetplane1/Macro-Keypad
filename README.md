@@ -29,21 +29,24 @@ Windows recognizes the Macropad as a standard USB device when it is plugged in. 
 ---
 ## Wiring Guide
 
-### Button Wiring
-* **Button 1** | GPIO 0 | GND
-* **Button 2** | GPIO 1 | GND
-* **Button 3** | GPIO 2 | GND
+```text
+Button Wiring:
+* Button 1       | GPIO 0 | GND
+* Button 2       | GPIO 1 | GND
+* Button 3       | GPIO 2 | GND
 
-### Battery Wiring
-* **Battery (+)** | TP4056 (B+)
-* **Battery (-)** | TP4056 (B-)
-* **TP4056 (OUT-)** | ESP32 (GND)
-* **TP4056 (OUT+)** | Switch (Middle Pin)
-* **Switch (Outer Pin)** | ESP32 (VIN / 5V)
+Battery Wiring:
+* Battery (+)    | TP4056 (B+)
+* Battery (-)    | TP4056 (B-)
+* TP4056 (OUT-)  | ESP32 (GND)
+* TP4056 (OUT+)  | Switch (Middle Pin)
+* Switch (Outer) | ESP32 (VIN / 5V)
 
-### LED Wiring
-* **Long Leg (+)** | ESP32 (GPIO 4)
-* **Short Leg (-)** | ESP32 (GND)
+LED Wiring:
+* Long Leg (+)   | ESP32 (GPIO 4)
+* Short Leg (-)  | ESP32 (GND)
+```
+
 
 ## Building & Compiling
 
