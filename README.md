@@ -44,3 +44,4 @@ pip install bleak customtkinter pyinstaller
 python -m PyInstaller --noconsole --onefile keybinds.py
 ```
 Your compiled launcher will be placed cleanly inside the newly generated `/dist` directory.
+<img width="965" height="789" alt="IMG_8363" src="https://github.com/user-attachments/assets/4c676197-ef88-4cf1-b57f-2e2b32ab84c2" />
