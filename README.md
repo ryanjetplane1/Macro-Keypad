@@ -36,10 +36,10 @@ Ensure you have the `NimBLE-Arduino` package installed through your library mana
 If you make modifications to the Python app script, re-bundle the project into an `.exe` using the system tool command:
 
 ```powershell
-# Setup environment requirements
+# Setup requirements
 pip install bleak customtkinter pyinstaller
 
-# Build into a clean, standalone executable
+# Build into a executable
 python -m PyInstaller --noconsole --onefile keybinds.py
 ```
 Your compiled launcher will be placed cleanly inside the newly generated `/dist` directory.
